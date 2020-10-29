@@ -30,3 +30,4 @@
   - Une nouvelle balise désactive l'ancienne
 - Traceur : pointe dans la direction de la balise concerné ( mis à jour toutes les 10 secondes )
 - Livre de Purification **DE LA MORT** 💀 : enlève toutes les balises sur soi et renvoie si il y en avait ( 2min de cooldown )
+  - Image des crafts
