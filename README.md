@@ -31,3 +31,5 @@
 - Traceur : pointe dans la direction de la balise concerné ( mis à jour toutes les 10 secondes )
 - Livre de Purification **DE LA MORT** 💀 : enlève toutes les balises sur soi et renvoie si il y en avait ( 2min de cooldown )
   - Image des crafts
+
+*Require claim-data folder : claim-data/teams.json + claim-data/players.json*
