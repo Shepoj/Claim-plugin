@@ -34,4 +34,4 @@
 
 ![Image des crafts](images/plugin-crafts.png)
 
-*Require claim-data folder : claim-data/teams.json + claim-data/players.json*
+#### *Require claim-data folder : claim-data/teams.json + claim-data/players.json*
