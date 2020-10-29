@@ -22,7 +22,7 @@
   
 **Crafts**
 - Items vanilla : slime ball, teinture verte, portail de l'end + autres avec `addRecipe(item, forme, ingrédients)`
-  - *Image des crafts*
+![Image des crafts](images/vanilla-crafts.png)
 - Flèches explosives ( explosion puissance 3 )
 - Base finder : click droit renvoie les bases détectées dans un rayon de 100 block ( carré ), les différences d'altitudes brouillent la qualité du signal, toutes les infos ne sont pas vraies ! ( 30s de cooldown )
   - Altitudes : 200+ → 85% fiable  //  120+ → 70%  //  80+ → 60%  //  60+ → 50%  //  40+ → 35%  //  20+ → 25%  //  0+ → 20%  ( précision minimum )
@@ -30,6 +30,6 @@
   - Une nouvelle balise désactive l'ancienne
 - Traceur : pointe dans la direction de la balise concerné ( mis à jour toutes les 10 secondes )
 - Livre de Purification **DE LA MORT** 💀 : enlève toutes les balises sur soi et renvoie si il y en avait ( 2min de cooldown )
-  - Image des crafts
+![Image des crafts](images/plugin-crafts.png)
 
 *Require claim-data folder : claim-data/teams.json + claim-data/players.json*
