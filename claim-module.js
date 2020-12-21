@@ -76,6 +76,7 @@ exports.createProfile = _createProfile; //✅
 exports.setHome = _setHome;             //✅
 exports.delHome = _delHome;             //✅
 exports.tpHome = _tpHome;               //✅
+exports.listHomes = _listHomes;         //?
 
 
 function _createProfile(players, name){
@@ -131,7 +132,15 @@ function _tpHome(players, sender, name){
     }
 }
 
-
+function _listHomes(players, sender){
+    var username=sender.name;
+    if (players[username].homes.length>=1){
+        echo(sender, players[username].homes);
+    }
+    else {
+        echo(sender, "You don\'t have any home");
+    }
+}
 
 // Teams
 
