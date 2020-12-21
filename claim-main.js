@@ -147,7 +147,10 @@ command('home', function(param, sender){
     }
 })
 
-
+command('homes'){
+    reload()
+    listHomes(players, sender);
+}
 
 // Team commands
 
